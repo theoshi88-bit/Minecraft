@@ -1,0 +1,16 @@
+{
+  "rows": 15,
+  "cols": 20,
+  "tiles": [
+    ["air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air"],
+    ["air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air"],
+    ["air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air"],
+
+["air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air"],
+
+["air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air","air"],
+    
+    ["dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt","dirt"],
+    ["grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass","grass"]
+  ]
+}
