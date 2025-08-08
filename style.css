@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #cceeff;
+}
+canvas {
+  border: 2px solid #333;
+  cursor: crosshair;
+  margin-top: 10px;
+}
+#inventory {
+  margin-bottom: 10px;
+}
+button {
+  font-size: 20px;
+  margin: 0 5px;
+}
