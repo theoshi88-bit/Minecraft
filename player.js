@@ -4,9 +4,8 @@ export function createPlayer() {
   const material = new THREE.MeshStandardMaterial({ color: 0xcccccc });
 
   const lower = new THREE.Mesh(new THREE.BoxGeometry(1, 1, 1), material); // legs
-  const upper = new THREE.Mesh(new THREE.BoxGeometry(1, 1, 1), material); // body
-
-  upper.position.y = 1; // stack above lower
+  const upper = new THREE.Mesh(new THREE.BoxGeometry(1, 1, 1), material); // torso
+  upper.position.y = 1;
 
   const group = new THREE.Group();
   group.add(lower);
